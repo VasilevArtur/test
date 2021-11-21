@@ -11,6 +11,7 @@ namespace First
         static void Main(string[] args)
         {
             Console.WriteLine("Hello git");
+            Console.WriteLine("gyg");
             Console.ReadKey();
         }
     }
